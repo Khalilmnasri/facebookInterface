@@ -1,0 +1,154 @@
+.tab{
+    width: 1341px;
+    background-color: #3F51B5;
+}
+
+.word{
+    font-size: 50px;
+    padding-left: 100px;
+    color: cornsilk;
+}
+
+.connect{
+    margin-top: 18px;
+    background-color: darkblue;
+}
+
+.central{
+    background-image: linear-gradient(#fff, #3b599870);
+    color: #0e385f;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 29px;
+    margin-top: 40px;
+    width: 1341px;
+    word-spacing: -1px;
+}
+
+.avec{
+    color: #0e385f;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 29px;
+    margin-top: 40px;
+    width: 450px;
+    padding-left: 50px;
+    padding-top: 60px;
+}
+
+img{
+    padding-bottom: 500px;
+    padding-left: 40px;
+}
+
+.btn{
+    background-color: darkolivegreen;
+    color: white;
+}
+
+.cases{
+    padding-right: 45px;
+    color: white;
+}
+.pswd{
+    padding-right: 44px;
+    margin-top: 53px;
+    color: white;
+}
+
+.inscrit{
+    padding-left: 50px;
+}
+
+.one{
+    text-align: left;
+}
+
+.two{
+    text-align: left;
+}
+
+.three{
+    text-align: left;
+}
+
+.nom{
+    font-size: 18px;
+    padding: 8px 10px;
+    width: 161px;
+}
+
+.famille{
+    font-size: 18px;
+    padding: 8px 10px;
+    width: 170px;
+}
+
+.number {
+    width: 68%;
+    font-size: 18px;
+    padding: 8px 10px;
+    margin-top: 10px;
+
+}
+
+.mopass{
+    width: 68%;
+    font-size: 18px;
+    padding: 8px 10px;
+    margin-top: 10px;
+}
+
+h4{
+    text-align: left;
+    margin-bottom: 5px;
+    margin-top: 10px;
+}
+
+.date{
+    position: relative;
+    text-align: left;
+}
+
+.rules{
+    text-align: left;
+    padding-bottom: 80px;
+}
+
+.sexe{
+    text-align: left;
+}
+
+.link1{
+    text-align: left;
+    font-size: 11px;
+    max-width: 150px;
+}
+
+.paragraph{
+    color: #777;
+    font-size: 11px;
+    width: 316px;
+}
+
+ .btn{
+    color: white;
+    background-color: #69a74e;
+    box-shadow: inset 0 1px 1px #a4e388;
+    font-size: 30px;
+    border: 1px solid;
+    border-radius: 5px;
+    border-color: #3b6e22 #3b6e22 #2c5115;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin-right: 350px;
+ }
+
+ .link2{
+     text-align: left;
+     color: #666;
+     font-size: 13px;
+     font-weight: bold;
+     margin-top: 10px;
+     padding-top: 15px;
+ }
